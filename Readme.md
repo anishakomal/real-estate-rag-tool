@@ -1,3 +1,14 @@
+## Problem Statement
+
+Users struggle to extract insights from long financial articles.
+
+## Solution
+
+Built a RAG-based system that:
+- Extracts article content
+- Stores embeddings
+- Answers queries using LLM
+
 # Real Estate Research Tool (RAG + LLM)
 
 We are building a **user-friendly real estate research tool** that allows users to extract insights from financial articles and mortgage-related news using AI.
@@ -92,7 +103,7 @@ GROQ_API_KEY=your_api_key_here
 
 > What is the Fed’s take on interest rates in 2025?
 
-✔ The system retrieves relevant financial news and explains how the Federal Reserve’s policies are impacting mortgage rates.
+ The system retrieves relevant financial news and explains how the Federal Reserve’s policies are impacting mortgage rates.
 
 ---
 
